@@ -1,0 +1,14 @@
+D:\Projects\Gwent-Compiler\bin\Debug\net8.0\Gwent-Compiler.exe
+D:\Projects\Gwent-Compiler\bin\Debug\net8.0\Gwent-Compiler.deps.json
+D:\Projects\Gwent-Compiler\bin\Debug\net8.0\Gwent-Compiler.runtimeconfig.json
+D:\Projects\Gwent-Compiler\bin\Debug\net8.0\Gwent-Compiler.dll
+D:\Projects\Gwent-Compiler\bin\Debug\net8.0\Gwent-Compiler.pdb
+D:\Projects\Gwent-Compiler\obj\Debug\net8.0\Gwent-Compiler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Gwent-Compiler\obj\Debug\net8.0\Gwent-Compiler.AssemblyInfoInputs.cache
+D:\Projects\Gwent-Compiler\obj\Debug\net8.0\Gwent-Compiler.AssemblyInfo.cs
+D:\Projects\Gwent-Compiler\obj\Debug\net8.0\Gwent-Compiler.csproj.CoreCompileInputs.cache
+D:\Projects\Gwent-Compiler\obj\Debug\net8.0\Gwent-Compiler.dll
+D:\Projects\Gwent-Compiler\obj\Debug\net8.0\refint\Gwent-Compiler.dll
+D:\Projects\Gwent-Compiler\obj\Debug\net8.0\Gwent-Compiler.pdb
+D:\Projects\Gwent-Compiler\obj\Debug\net8.0\Gwent-Compiler.genruntimeconfig.cache
+D:\Projects\Gwent-Compiler\obj\Debug\net8.0\ref\Gwent-Compiler.dll
